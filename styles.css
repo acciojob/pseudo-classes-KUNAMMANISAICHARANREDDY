@@ -41,7 +41,23 @@ h1{
 	background-color:white;
 	background-color:pink;
 }
-*{
+#fi{
+	width:50%;
+	padding:10px;
+}
+#s{
+	width:50%;
+	padding:10px;
+}
+#th{
+	width:50%;
+	padding:10px;
+}
+#fo{
+	width:50%;
+	padding:10px;
+}
+#fl{
 	width:50%;
 	padding:10px;
 }
