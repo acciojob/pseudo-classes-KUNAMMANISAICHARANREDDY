@@ -12,8 +12,9 @@ p:last-child{
 	color:red;
 }
 
-.items ul li:nth-child(1){
+.items ul li:first-child{
 	background-color:white;
+	font-size:22px;
 }
 .items ul li:nth-child(2){
 	background-color:grey;
@@ -21,8 +22,9 @@ p:last-child{
 .items ul li:nth-child(4){
 	background-color:grey;
 }
-.items ul li:nth-child(5){
+.items ul li:last-child{
 	background-color:white;
+	font-size:22px;
 }
 .items ul li:nth-child(3){
 	background-color:pink;
